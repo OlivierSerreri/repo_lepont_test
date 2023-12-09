@@ -1,0 +1,2 @@
+ceci est un fichier avec du texte
+Il va etre modifié
